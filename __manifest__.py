@@ -1,0 +1,21 @@
+{ 
+    'name': 'Automóviles', 
+    'description': 'Marcas y modelos de automóviles', 
+    'sumary': 'Aplicacion para registrar las marcas y modelos de automóviles',
+    'version': '1.0',
+    'category': 'Generic Modules',
+    'author': 'ARTEXT', 
+    'license': 'LGPL-3',
+    'depends': ['base'], 
+    "data": ['vistas/marcas_view.xml',
+             'vistas/menu_views.xml',
+             'vistas/modelos_view.xml',
+             'security/ir.model.access.csv',
+             #'security/groups_security.xml',
+             'data/marcas.xml',
+             'data/modelos.xml',
+             'vistas/res_partner_views.xml'   
+    ],
+    'application': True, 
+    'installable': True,
+}

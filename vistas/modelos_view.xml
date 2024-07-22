@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <!-- View categoria View Tree -->
+    <record id="view_modelos_tree" model="ir.ui.view">
+        <field name="name">view.modelos.tree</field>
+        <field name="model">modelos</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="name"/>
+            </tree>
+        </field>
+    </record>
+
+    <!-- View modelos form -->
+    <record id="view_modelos_form" model="ir.ui.view">
+        <field name="name">view.modelos.form</field>
+        <field name="model">modelos</field>
+        <field name="arch" type="xml">
+            <form string="Modelos">
+                <sheet>
+                    <div class="oe_title">
+                        <label for="name"/>
+                        <h1>
+                            <field name="name" placeholder="Modelo..."/>
+                        </h1>
+                        <h3>
+                        <group name="raw_2">
+                            <group name="datos" string="Datos">
+                                <field name="marca"/>
+                            </group>
+                            <group name="imagen" string="Imagen">
+                                <field name="imagen" widget= "image" height="150"></field>
+                            </group>
+                        </group>
+                        </h3>
+                    </div>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <!-- View modelos search -->
+    <record id="view_modelos_search" model="ir.ui.view">
+        <field name="name">view.modelos.search</field>
+        <field name="model">modelos</field>
+        <field name="arch" type="xml">
+            <search>
+                <group expand="1" string="Group By">
+                    <filter string="Marca" name="marca" domain="[]" context="{'group_by':'marca'}"/>
+                </group>
+                <field name="name"/>
+            </search>
+        </field>
+    </record>
+
+    <!-- Action modelos -->
+    <record id="action_modelos" model="ir.actions.act_window">
+        <field name="name">Modelos</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">modelos</field>
+        <field name="view_mode">tree,form</field>
+        <field name="domain">[]</field>
+        <field name="context">{}</field>
+        <field name="help" type="html">
+            <p class="oe_view_nocontent_create">
+                There is no examples click here to add new Categoria.
+            </p>
+        </field>
+    </record>
+
+</odoo>

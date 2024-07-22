@@ -1,0 +1,3 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+ad_autos,ad.autos,model_marcas,,1,1,1,1
+ad_modelos,ad.modelos,model_modelos,,1,1,1,1

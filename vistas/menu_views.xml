@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <odoo>
+    <!-- Action autos -->
+    <record id="action_autos" model="ir.actions.act_window">
+        <field name="name">Autos</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">marcas</field>
+        <field name="view_mode">tree,form</field>
+        <field name="domain">[]</field>
+        <field name="context">{}</field>
+        <field name="help" type="html">
+            <p class="oe_view_nocontent_create">
+                There is no examples click here to add new Categoria.
+            </p>
+        </field>
+    </record>
+        <!-- Define un menú para acceder a la vista de Autos -->
+        <menuitem id="menu_autos" name="Autos" action="action_autos"/>     
+
+        <!-- Action modelos -->
+    <record id="action_modelos" model="ir.actions.act_window">
+        <field name="name">Modelos</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">modelos</field>
+        <field name="view_mode">tree,form</field>
+        <field name="domain">[]</field>
+        <field name="context">{}</field>
+        <field name="help" type="html">
+            <p class="oe_view_nocontent_create">
+                There is no examples click here to add new Categoria.
+            </p>
+        </field>
+    </record>
+        <!-- Define un menú para acceder a la vista de Autos -->
+        <menuitem id="menu_modelos" name="Modelos" action="action_modelos" parent= "menu_autos"/>    
+    </odoo>

@@ -1,0 +1,7063 @@
+<odoo>
+<data noupdate="1">
+<record id="modelo_1" model="modelos">
+      <field name="name">500</field>
+      <field name="marca" ref="1"/>
+</record>
+
+
+
+<record id="modelo_2" model="modelos">
+      <field name="name">Grande Punto</field>
+      <field name="marca" ref="1"/>
+</record>
+
+
+
+<record id="modelo_3" model="modelos">
+      <field name="name">Punto Evo</field>
+      <field name="marca" ref="1"/>
+</record>
+
+
+
+<record id="modelo_4" model="modelos">
+      <field name="name">500c</field>
+      <field name="marca" ref="1"/>
+</record>
+
+
+
+<record id="modelo_5" model="modelos">
+      <field name="name">695</field>
+      <field name="marca" ref="1"/>
+</record>
+
+
+
+<record id="modelo_6" model="modelos">
+      <field name="name">Punto</field>
+      <field name="marca" ref="1"/>
+</record>
+
+
+
+<record id="modelo_7" model="modelos">
+      <field name="name">155</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_8" model="modelos">
+      <field name="name">156</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_9" model="modelos">
+      <field name="name">159</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_10" model="modelos">
+      <field name="name">164</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_11" model="modelos">
+      <field name="name">145</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_12" model="modelos">
+      <field name="name">147</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_13" model="modelos">
+      <field name="name">146</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_14" model="modelos">
+      <field name="name">Gtv</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_15" model="modelos">
+      <field name="name">Spider</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_16" model="modelos">
+      <field name="name">166</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_17" model="modelos">
+      <field name="name">Gt</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_18" model="modelos">
+      <field name="name">Crosswagon</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_19" model="modelos">
+      <field name="name">Brera</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_20" model="modelos">
+      <field name="name">90</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_21" model="modelos">
+      <field name="name">75</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_22" model="modelos">
+      <field name="name">33</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_23" model="modelos">
+      <field name="name">Giulietta</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_24" model="modelos">
+      <field name="name">Sprint</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_25" model="modelos">
+      <field name="name">Mito</field>
+      <field name="marca" ref="2"/>
+</record>
+
+
+
+<record id="modelo_26" model="modelos">
+      <field name="name">Expander</field>
+      <field name="marca" ref="3"/>
+</record>
+
+
+
+<record id="modelo_27" model="modelos">
+      <field name="name">10</field>
+      <field name="marca" ref="3"/>
+</record>
+
+
+
+<record id="modelo_28" model="modelos">
+      <field name="name">24</field>
+      <field name="marca" ref="3"/>
+</record>
+
+
+
+<record id="modelo_29" model="modelos">
+      <field name="name">Dacia</field>
+      <field name="marca" ref="3"/>
+</record>
+
+
+
+<record id="modelo_30" model="modelos">
+      <field name="name">Rocsta</field>
+      <field name="marca" ref="4"/>
+</record>
+
+
+
+<record id="modelo_31" model="modelos">
+      <field name="name">Rocsta</field>
+      <field name="marca" ref="5"/>
+</record>
+
+
+
+<record id="modelo_32" model="modelos">
+      <field name="name">Db7</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_33" model="modelos">
+      <field name="name">V8</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_34" model="modelos">
+      <field name="name">Db9</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_35" model="modelos">
+      <field name="name">Vanquish</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_36" model="modelos">
+      <field name="name">V8 Vantage</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_37" model="modelos">
+      <field name="name">Vantage</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_38" model="modelos">
+      <field name="name">Dbs</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_39" model="modelos">
+      <field name="name">Volante</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_40" model="modelos">
+      <field name="name">Virage</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_41" model="modelos">
+      <field name="name">Vantage V8</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_42" model="modelos">
+      <field name="name">Vantage V12</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_43" model="modelos">
+      <field name="name">Rapide</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_44" model="modelos">
+      <field name="name">Cygnet</field>
+      <field name="marca" ref="6"/>
+</record>
+
+
+
+<record id="modelo_45" model="modelos">
+      <field name="name">80</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_46" model="modelos">
+      <field name="name">A4</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_47" model="modelos">
+      <field name="name">A6</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_48" model="modelos">
+      <field name="name">S6</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_49" model="modelos">
+      <field name="name">Coupe</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_50" model="modelos">
+      <field name="name">S2</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_51" model="modelos">
+      <field name="name">Rs2</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_52" model="modelos">
+      <field name="name">A8</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_53" model="modelos">
+      <field name="name">Cabriolet</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_54" model="modelos">
+      <field name="name">S8</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_55" model="modelos">
+      <field name="name">A3</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_56" model="modelos">
+      <field name="name">S4</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_57" model="modelos">
+      <field name="name">Tt</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_58" model="modelos">
+      <field name="name">S3</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_59" model="modelos">
+      <field name="name">Allroad Quattro</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_60" model="modelos">
+      <field name="name">Rs4</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_61" model="modelos">
+      <field name="name">A2</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_62" model="modelos">
+      <field name="name">Rs6</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_63" model="modelos">
+      <field name="name">Q7</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_64" model="modelos">
+      <field name="name">R8</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_65" model="modelos">
+      <field name="name">A5</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_66" model="modelos">
+      <field name="name">S5</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_67" model="modelos">
+      <field name="name">V8</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_68" model="modelos">
+      <field name="name">200</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_69" model="modelos">
+      <field name="name">100</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_70" model="modelos">
+      <field name="name">90</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_71" model="modelos">
+      <field name="name">Tts</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_72" model="modelos">
+      <field name="name">Q5</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_73" model="modelos">
+      <field name="name">A4 Allroad Quattro</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_74" model="modelos">
+      <field name="name">Tt Rs</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_75" model="modelos">
+      <field name="name">Rs5</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_76" model="modelos">
+      <field name="name">A1</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_77" model="modelos">
+      <field name="name">A7</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_78" model="modelos">
+      <field name="name">Rs3</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_79" model="modelos">
+      <field name="name">Q3</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_80" model="modelos">
+      <field name="name">A6 Allroad Quattro</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_81" model="modelos">
+      <field name="name">S7</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_82" model="modelos">
+      <field name="name">Sq5</field>
+      <field name="marca" ref="7"/>
+</record>
+
+
+
+<record id="modelo_83" model="modelos">
+      <field name="name">Mini</field>
+      <field name="marca" ref="8"/>
+</record>
+
+
+
+<record id="modelo_84" model="modelos">
+      <field name="name">Montego</field>
+      <field name="marca" ref="8"/>
+</record>
+
+
+
+<record id="modelo_85" model="modelos">
+      <field name="name">Maestro</field>
+      <field name="marca" ref="8"/>
+</record>
+
+
+
+<record id="modelo_86" model="modelos">
+      <field name="name">Metro</field>
+      <field name="marca" ref="8"/>
+</record>
+
+
+
+<record id="modelo_87" model="modelos">
+      <field name="name">Mini Moke</field>
+      <field name="marca" ref="8"/>
+</record>
+
+
+
+<record id="modelo_88" model="modelos">
+      <field name="name">Diesel</field>
+      <field name="marca" ref="9"/>
+</record>
+
+
+
+<record id="modelo_89" model="modelos">
+      <field name="name">Brooklands</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_90" model="modelos">
+      <field name="name">Turbo</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_91" model="modelos">
+      <field name="name">Continental</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_92" model="modelos">
+      <field name="name">Azure</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_93" model="modelos">
+      <field name="name">Arnage</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_94" model="modelos">
+      <field name="name">Continental Gt</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_95" model="modelos">
+      <field name="name">Continental Flying Spur</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_96" model="modelos">
+      <field name="name">Turbo R</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_97" model="modelos">
+      <field name="name">Mulsanne</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_98" model="modelos">
+      <field name="name">Eight</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_99" model="modelos">
+      <field name="name">Continental Gtc</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_100" model="modelos">
+      <field name="name">Continental Supersports</field>
+      <field name="marca" ref="10"/>
+</record>
+
+
+
+<record id="modelo_101" model="modelos">
+      <field name="name">Freeclimber Diesel</field>
+      <field name="marca" ref="11"/>
+</record>
+
+
+
+<record id="modelo_102" model="modelos">
+      <field name="name">Serie 3</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_103" model="modelos">
+      <field name="name">Serie 5</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_104" model="modelos">
+      <field name="name">Compact</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_105" model="modelos">
+      <field name="name">Serie 7</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_106" model="modelos">
+      <field name="name">Serie 8</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_107" model="modelos">
+      <field name="name">Z3</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_108" model="modelos">
+      <field name="name">Z4</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_109" model="modelos">
+      <field name="name">Z8</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_110" model="modelos">
+      <field name="name">X5</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_111" model="modelos">
+      <field name="name">Serie 6</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_112" model="modelos">
+      <field name="name">X3</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_113" model="modelos">
+      <field name="name">Serie 1</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_114" model="modelos">
+      <field name="name">Z1</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_115" model="modelos">
+      <field name="name">X6</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_116" model="modelos">
+      <field name="name">X1</field>
+      <field name="marca" ref="12"/>
+</record>
+
+
+
+<record id="modelo_117" model="modelos">
+      <field name="name">Seville</field>
+      <field name="marca" ref="13"/>
+</record>
+
+
+
+<record id="modelo_118" model="modelos">
+      <field name="name">Sts</field>
+      <field name="marca" ref="13"/>
+</record>
+
+
+
+<record id="modelo_119" model="modelos">
+      <field name="name">El Dorado</field>
+      <field name="marca" ref="13"/>
+</record>
+
+
+
+<record id="modelo_120" model="modelos">
+      <field name="name">Cts</field>
+      <field name="marca" ref="13"/>
+</record>
+
+
+
+<record id="modelo_121" model="modelos">
+      <field name="name">Xlr</field>
+      <field name="marca" ref="13"/>
+</record>
+
+
+
+<record id="modelo_122" model="modelos">
+      <field name="name">Srx</field>
+      <field name="marca" ref="13"/>
+</record>
+
+
+
+<record id="modelo_123" model="modelos">
+      <field name="name">Escalade</field>
+      <field name="marca" ref="13"/>
+</record>
+
+
+
+<record id="modelo_124" model="modelos">
+      <field name="name">Bls</field>
+      <field name="marca" ref="13"/>
+</record>
+
+
+
+<record id="modelo_125" model="modelos">
+      <field name="name">Corvette</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_126" model="modelos">
+      <field name="name">Blazer</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_127" model="modelos">
+      <field name="name">Astro</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_128" model="modelos">
+      <field name="name">Nubira</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_129" model="modelos">
+      <field name="name">Evanda</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_130" model="modelos">
+      <field name="name">Trans Sport</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_131" model="modelos">
+      <field name="name">Camaro</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_132" model="modelos">
+      <field name="name">Matiz</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_133" model="modelos">
+      <field name="name">Alero</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_134" model="modelos">
+      <field name="name">Tahoe</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_135" model="modelos">
+      <field name="name">Tacuma</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_136" model="modelos">
+      <field name="name">Trailblazer</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_137" model="modelos">
+      <field name="name">Kalos</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_138" model="modelos">
+      <field name="name">Aveo</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_139" model="modelos">
+      <field name="name">Lacetti</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_140" model="modelos">
+      <field name="name">Epica</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_141" model="modelos">
+      <field name="name">Captiva</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_142" model="modelos">
+      <field name="name">Hhr</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_143" model="modelos">
+      <field name="name">Cruze</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_144" model="modelos">
+      <field name="name">Spark</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_145" model="modelos">
+      <field name="name">Orlando</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_146" model="modelos">
+      <field name="name">Volt</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_147" model="modelos">
+      <field name="name">Malibu</field>
+      <field name="marca" ref="14"/>
+</record>
+
+
+
+<record id="modelo_148" model="modelos">
+      <field name="name">Vision</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_149" model="modelos">
+      <field name="name">300m</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_150" model="modelos">
+      <field name="name">Grand Voyager</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_151" model="modelos">
+      <field name="name">Viper</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_152" model="modelos">
+      <field name="name">Neon</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_153" model="modelos">
+      <field name="name">Voyager</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_154" model="modelos">
+      <field name="name">Stratus</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_155" model="modelos">
+      <field name="name">Sebring</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_156" model="modelos">
+      <field name="name">Sebring 200c</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_157" model="modelos">
+      <field name="name">New Yorker</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_158" model="modelos">
+      <field name="name">Pt Cruiser</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_159" model="modelos">
+      <field name="name">Crossfire</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_160" model="modelos">
+      <field name="name">300c</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_161" model="modelos">
+      <field name="name">Le Baron</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_162" model="modelos">
+      <field name="name">Saratoga</field>
+      <field name="marca" ref="15"/>
+</record>
+
+
+
+<record id="modelo_163" model="modelos">
+      <field name="name">Xantia</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_164" model="modelos">
+      <field name="name">Xm</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_165" model="modelos">
+      <field name="name">Ax</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_166" model="modelos">
+      <field name="name">Zx</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_167" model="modelos">
+      <field name="name">Evasion</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_168" model="modelos">
+      <field name="name">C8</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_169" model="modelos">
+      <field name="name">Saxo</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_170" model="modelos">
+      <field name="name">C2</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_171" model="modelos">
+      <field name="name">Xsara</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_172" model="modelos">
+      <field name="name">C4</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_173" model="modelos">
+      <field name="name">Xsara Picasso</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_174" model="modelos">
+      <field name="name">C5</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_175" model="modelos">
+      <field name="name">C3</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_176" model="modelos">
+      <field name="name">C3 Pluriel</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_177" model="modelos">
+      <field name="name">C1</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_178" model="modelos">
+      <field name="name">C6</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_179" model="modelos">
+      <field name="name">Grand C4 Picasso</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_180" model="modelos">
+      <field name="name">C4 Picasso</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_181" model="modelos">
+      <field name="name">Ccrosser</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_182" model="modelos">
+      <field name="name">C15</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_183" model="modelos">
+      <field name="name">Jumper</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_184" model="modelos">
+      <field name="name">Jumpy</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_185" model="modelos">
+      <field name="name">Berlingo</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_186" model="modelos">
+      <field name="name">Bx</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_187" model="modelos">
+      <field name="name">C25</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_188" model="modelos">
+      <field name="name">Cx</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_189" model="modelos">
+      <field name="name">Gsa</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_190" model="modelos">
+      <field name="name">Visa</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_191" model="modelos">
+      <field name="name">Lna</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_192" model="modelos">
+      <field name="name">2cv</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_193" model="modelos">
+      <field name="name">Nemo</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_194" model="modelos">
+      <field name="name">C4 Sedan</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_195" model="modelos">
+      <field name="name">Berlingo First</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_196" model="modelos">
+      <field name="name">C3 Picasso</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_197" model="modelos">
+      <field name="name">Ds3</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_198" model="modelos">
+      <field name="name">Czero</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_199" model="modelos">
+      <field name="name">Ds4</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_200" model="modelos">
+      <field name="name">Ds5</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_201" model="modelos">
+      <field name="name">C4 Aircross</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_202" model="modelos">
+      <field name="name">Celysee</field>
+      <field name="marca" ref="16"/>
+</record>
+
+
+
+<record id="modelo_203" model="modelos">
+      <field name="name">Corvette</field>
+      <field name="marca" ref="17"/>
+</record>
+
+
+
+<record id="modelo_204" model="modelos">
+      <field name="name">Contac</field>
+      <field name="marca" ref="18"/>
+</record>
+
+
+
+<record id="modelo_205" model="modelos">
+      <field name="name">Logan</field>
+      <field name="marca" ref="18"/>
+</record>
+
+
+
+<record id="modelo_206" model="modelos">
+      <field name="name">Sandero</field>
+      <field name="marca" ref="18"/>
+</record>
+
+
+
+<record id="modelo_207" model="modelos">
+      <field name="name">Duster</field>
+      <field name="marca" ref="18"/>
+</record>
+
+
+
+<record id="modelo_208" model="modelos">
+      <field name="name">Lodgy</field>
+      <field name="marca" ref="18"/>
+</record>
+
+
+
+<record id="modelo_209" model="modelos">
+      <field name="name">Nexia</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_210" model="modelos">
+      <field name="name">Aranos</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_211" model="modelos">
+      <field name="name">Lanos</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_212" model="modelos">
+      <field name="name">Nubira</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_213" model="modelos">
+      <field name="name">Compact</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_214" model="modelos">
+      <field name="name">Nubira Compact</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_215" model="modelos">
+      <field name="name">Leganza</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_216" model="modelos">
+      <field name="name">Evanda</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_217" model="modelos">
+      <field name="name">Matiz</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_218" model="modelos">
+      <field name="name">Tacuma</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_219" model="modelos">
+      <field name="name">Kalos</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_220" model="modelos">
+      <field name="name">Lacetti</field>
+      <field name="marca" ref="19"/>
+</record>
+
+
+
+<record id="modelo_221" model="modelos">
+      <field name="name">Applause</field>
+      <field name="marca" ref="21"/>
+</record>
+
+
+
+<record id="modelo_222" model="modelos">
+      <field name="name">Charade</field>
+      <field name="marca" ref="21"/>
+</record>
+
+
+
+<record id="modelo_223" model="modelos">
+      <field name="name">Rocky</field>
+      <field name="marca" ref="21"/>
+</record>
+
+
+
+<record id="modelo_224" model="modelos">
+      <field name="name">Feroza</field>
+      <field name="marca" ref="21"/>
+</record>
+
+
+
+<record id="modelo_225" model="modelos">
+      <field name="name">Terios</field>
+      <field name="marca" ref="21"/>
+</record>
+
+
+
+<record id="modelo_226" model="modelos">
+      <field name="name">Sirion</field>
+      <field name="marca" ref="21"/>
+</record>
+
+
+
+<record id="modelo_227" model="modelos">
+      <field name="name">Serie Xj</field>
+      <field name="marca" ref="22"/>
+</record>
+
+
+
+<record id="modelo_228" model="modelos">
+      <field name="name">Xj</field>
+      <field name="marca" ref="22"/>
+</record>
+
+
+
+<record id="modelo_229" model="modelos">
+      <field name="name">Double Six</field>
+      <field name="marca" ref="22"/>
+</record>
+
+
+
+<record id="modelo_230" model="modelos">
+      <field name="name">Six</field>
+      <field name="marca" ref="22"/>
+</record>
+
+
+
+<record id="modelo_231" model="modelos">
+      <field name="name">Series Iii</field>
+      <field name="marca" ref="22"/>
+</record>
+
+
+
+<record id="modelo_232" model="modelos">
+      <field name="name">Viper</field>
+      <field name="marca" ref="23"/>
+</record>
+
+
+
+<record id="modelo_233" model="modelos">
+      <field name="name">Caliber</field>
+      <field name="marca" ref="23"/>
+</record>
+
+
+
+<record id="modelo_234" model="modelos">
+      <field name="name">Nitro</field>
+      <field name="marca" ref="23"/>
+</record>
+
+
+
+<record id="modelo_235" model="modelos">
+      <field name="name">Avenger</field>
+      <field name="marca" ref="23"/>
+</record>
+
+
+
+<record id="modelo_236" model="modelos">
+      <field name="name">Journey</field>
+      <field name="marca" ref="23"/>
+</record>
+
+
+
+<record id="modelo_237" model="modelos">
+      <field name="name">F355</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_238" model="modelos">
+      <field name="name">360</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_239" model="modelos">
+      <field name="name">F430</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_240" model="modelos">
+      <field name="name">F512 M</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_241" model="modelos">
+      <field name="name">550 Maranello</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_242" model="modelos">
+      <field name="name">575m Maranello</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_243" model="modelos">
+      <field name="name">599</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_244" model="modelos">
+      <field name="name">456</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_245" model="modelos">
+      <field name="name">456m</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_246" model="modelos">
+      <field name="name">612</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_247" model="modelos">
+      <field name="name">F50</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_248" model="modelos">
+      <field name="name">Enzo</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_249" model="modelos">
+      <field name="name">Superamerica</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_250" model="modelos">
+      <field name="name">430</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_251" model="modelos">
+      <field name="name">348</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_252" model="modelos">
+      <field name="name">Testarossa</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_253" model="modelos">
+      <field name="name">512</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_254" model="modelos">
+      <field name="name">355</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_255" model="modelos">
+      <field name="name">F40</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_256" model="modelos">
+      <field name="name">412</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_257" model="modelos">
+      <field name="name">Mondial</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_258" model="modelos">
+      <field name="name">328</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_259" model="modelos">
+      <field name="name">California</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_260" model="modelos">
+      <field name="name">458</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_261" model="modelos">
+      <field name="name">Ff</field>
+      <field name="marca" ref="24"/>
+</record>
+
+
+
+<record id="modelo_262" model="modelos">
+      <field name="name">Croma</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_263" model="modelos">
+      <field name="name">Cinquecento</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_264" model="modelos">
+      <field name="name">Seicento</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_265" model="modelos">
+      <field name="name">Punto</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_266" model="modelos">
+      <field name="name">Grande Punto</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_267" model="modelos">
+      <field name="name">Panda</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_268" model="modelos">
+      <field name="name">Tipo</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_269" model="modelos">
+      <field name="name">Coupe</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_270" model="modelos">
+      <field name="name">Uno</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_271" model="modelos">
+      <field name="name">Ulysse</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_272" model="modelos">
+      <field name="name">Tempra</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_273" model="modelos">
+      <field name="name">Marea</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_274" model="modelos">
+      <field name="name">Barchetta</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_275" model="modelos">
+      <field name="name">Bravo</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_276" model="modelos">
+      <field name="name">Stilo</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_277" model="modelos">
+      <field name="name">Brava</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_278" model="modelos">
+      <field name="name">Palio Weekend</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_279" model="modelos">
+      <field name="name">600</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_280" model="modelos">
+      <field name="name">Multipla</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_281" model="modelos">
+      <field name="name">Idea</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_282" model="modelos">
+      <field name="name">Sedici</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_283" model="modelos">
+      <field name="name">Linea</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_284" model="modelos">
+      <field name="name">500</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_285" model="modelos">
+      <field name="name">Fiorino</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_286" model="modelos">
+      <field name="name">Ducato</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_287" model="modelos">
+      <field name="name">Doblo Cargo</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_288" model="modelos">
+      <field name="name">Doblo</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_289" model="modelos">
+      <field name="name">Strada</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_290" model="modelos">
+      <field name="name">Regata</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_291" model="modelos">
+      <field name="name">Talento</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_292" model="modelos">
+      <field name="name">Argenta</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_293" model="modelos">
+      <field name="name">Ritmo</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_294" model="modelos">
+      <field name="name">Punto Classic</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_295" model="modelos">
+      <field name="name">Qubo</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_296" model="modelos">
+      <field name="name">Punto Evo</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_297" model="modelos">
+      <field name="name">500c</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_298" model="modelos">
+      <field name="name">Freemont</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_299" model="modelos">
+      <field name="name">Panda Classic</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_300" model="modelos">
+      <field name="name">500l</field>
+      <field name="marca" ref="25"/>
+</record>
+
+
+
+<record id="modelo_301" model="modelos">
+      <field name="name">Maverick</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_302" model="modelos">
+      <field name="name">Escort</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_303" model="modelos">
+      <field name="name">Focus</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_304" model="modelos">
+      <field name="name">Mondeo</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_305" model="modelos">
+      <field name="name">Scorpio</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_306" model="modelos">
+      <field name="name">Fiesta</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_307" model="modelos">
+      <field name="name">Probe</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_308" model="modelos">
+      <field name="name">Explorer</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_309" model="modelos">
+      <field name="name">Galaxy</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_310" model="modelos">
+      <field name="name">Ka</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_311" model="modelos">
+      <field name="name">Puma</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_312" model="modelos">
+      <field name="name">Cougar</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_313" model="modelos">
+      <field name="name">Focus Cmax</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_314" model="modelos">
+      <field name="name">Fusion</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_315" model="modelos">
+      <field name="name">Streetka</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_316" model="modelos">
+      <field name="name">Cmax</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_317" model="modelos">
+      <field name="name">Smax</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_318" model="modelos">
+      <field name="name">Transit</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_319" model="modelos">
+      <field name="name">Courier</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_320" model="modelos">
+      <field name="name">Ranger</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_321" model="modelos">
+      <field name="name">Sierra</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_322" model="modelos">
+      <field name="name">Orion</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_323" model="modelos">
+      <field name="name">Pick Up</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_324" model="modelos">
+      <field name="name">Capri</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_325" model="modelos">
+      <field name="name">Granada</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_326" model="modelos">
+      <field name="name">Kuga</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_327" model="modelos">
+      <field name="name">Grand Cmax</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_328" model="modelos">
+      <field name="name">Bmax</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_329" model="modelos">
+      <field name="name">Tourneo Custom</field>
+      <field name="marca" ref="26"/>
+</record>
+
+
+
+<record id="modelo_330" model="modelos">
+      <field name="name">Exceed</field>
+      <field name="marca" ref="27"/>
+</record>
+
+
+
+<record id="modelo_331" model="modelos">
+      <field name="name">Santamo</field>
+      <field name="marca" ref="27"/>
+</record>
+
+
+
+<record id="modelo_332" model="modelos">
+      <field name="name">Super Exceed</field>
+      <field name="marca" ref="27"/>
+</record>
+
+
+
+<record id="modelo_333" model="modelos">
+      <field name="name">Accord</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_334" model="modelos">
+      <field name="name">Civic</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_335" model="modelos">
+      <field name="name">Crx</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_336" model="modelos">
+      <field name="name">Prelude</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_337" model="modelos">
+      <field name="name">Nsx</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_338" model="modelos">
+      <field name="name">Legend</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_339" model="modelos">
+      <field name="name">Crv</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_340" model="modelos">
+      <field name="name">Hrv</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_341" model="modelos">
+      <field name="name">Logo</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_342" model="modelos">
+      <field name="name">S2000</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_343" model="modelos">
+      <field name="name">Stream</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_344" model="modelos">
+      <field name="name">Jazz</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_345" model="modelos">
+      <field name="name">Frv</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_346" model="modelos">
+      <field name="name">Concerto</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_347" model="modelos">
+      <field name="name">Insight</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_348" model="modelos">
+      <field name="name">Crz</field>
+      <field name="marca" ref="29"/>
+</record>
+
+
+
+<record id="modelo_349" model="modelos">
+      <field name="name">H2</field>
+      <field name="marca" ref="30"/>
+</record>
+
+
+
+<record id="modelo_350" model="modelos">
+      <field name="name">H3</field>
+      <field name="marca" ref="30"/>
+</record>
+
+
+
+<record id="modelo_351" model="modelos">
+      <field name="name">H3t</field>
+      <field name="marca" ref="30"/>
+</record>
+
+
+
+<record id="modelo_352" model="modelos">
+      <field name="name">Lantra</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_353" model="modelos">
+      <field name="name">Sonata</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_354" model="modelos">
+      <field name="name">Elantra</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_355" model="modelos">
+      <field name="name">Accent</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_356" model="modelos">
+      <field name="name">Scoupe</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_357" model="modelos">
+      <field name="name">Coupe</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_358" model="modelos">
+      <field name="name">Atos</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_359" model="modelos">
+      <field name="name">H1</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_360" model="modelos">
+      <field name="name">Atos Prime</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_361" model="modelos">
+      <field name="name">Xg</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_362" model="modelos">
+      <field name="name">Trajet</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_363" model="modelos">
+      <field name="name">Santa Fe</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_364" model="modelos">
+      <field name="name">Terracan</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_365" model="modelos">
+      <field name="name">Matrix</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_366" model="modelos">
+      <field name="name">Getz</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_367" model="modelos">
+      <field name="name">Tucson</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_368" model="modelos">
+      <field name="name">I30</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_369" model="modelos">
+      <field name="name">Pony</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_370" model="modelos">
+      <field name="name">Grandeur</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_371" model="modelos">
+      <field name="name">I10</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_372" model="modelos">
+      <field name="name">I800</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_373" model="modelos">
+      <field name="name">Sonata Fl</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_374" model="modelos">
+      <field name="name">Ix55</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_375" model="modelos">
+      <field name="name">I20</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_376" model="modelos">
+      <field name="name">Ix35</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_377" model="modelos">
+      <field name="name">Ix20</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_378" model="modelos">
+      <field name="name">Genesis</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_379" model="modelos">
+      <field name="name">I40</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_380" model="modelos">
+      <field name="name">Veloster</field>
+      <field name="marca" ref="31"/>
+</record>
+
+
+
+<record id="modelo_381" model="modelos">
+      <field name="name">G</field>
+      <field name="marca" ref="32"/>
+</record>
+
+
+
+<record id="modelo_382" model="modelos">
+      <field name="name">Ex</field>
+      <field name="marca" ref="32"/>
+</record>
+
+
+
+<record id="modelo_383" model="modelos">
+      <field name="name">Fx</field>
+      <field name="marca" ref="32"/>
+</record>
+
+
+
+<record id="modelo_384" model="modelos">
+      <field name="name">M</field>
+      <field name="marca" ref="32"/>
+</record>
+
+
+
+<record id="modelo_385" model="modelos">
+      <field name="name">Elba</field>
+      <field name="marca" ref="33"/>
+</record>
+
+
+
+<record id="modelo_386" model="modelos">
+      <field name="name">Minitre</field>
+      <field name="marca" ref="33"/>
+</record>
+
+
+
+<record id="modelo_387" model="modelos">
+      <field name="name">Trooper</field>
+      <field name="marca" ref="34"/>
+</record>
+
+
+
+<record id="modelo_388" model="modelos">
+      <field name="name">Pick Up</field>
+      <field name="marca" ref="34"/>
+</record>
+
+
+
+<record id="modelo_389" model="modelos">
+      <field name="name">D Max</field>
+      <field name="marca" ref="34"/>
+</record>
+
+
+
+<record id="modelo_390" model="modelos">
+      <field name="name">Rodeo</field>
+      <field name="marca" ref="34"/>
+</record>
+
+
+
+<record id="modelo_391" model="modelos">
+      <field name="name">Dmax</field>
+      <field name="marca" ref="34"/>
+</record>
+
+
+
+<record id="modelo_392" model="modelos">
+      <field name="name">Trroper</field>
+      <field name="marca" ref="34"/>
+</record>
+
+
+
+<record id="modelo_393" model="modelos">
+      <field name="name">Daily</field>
+      <field name="marca" ref="35"/>
+</record>
+
+
+
+<record id="modelo_394" model="modelos">
+      <field name="name">Massif</field>
+      <field name="marca" ref="35"/>
+</record>
+
+
+
+<record id="modelo_395" model="modelos">
+      <field name="name">Daily</field>
+      <field name="marca" ref="36"/>
+</record>
+
+
+
+<record id="modelo_396" model="modelos">
+      <field name="name">Duty</field>
+      <field name="marca" ref="36"/>
+</record>
+
+
+
+<record id="modelo_397" model="modelos">
+      <field name="name">Serie Xj</field>
+      <field name="marca" ref="37"/>
+</record>
+
+
+
+<record id="modelo_398" model="modelos">
+      <field name="name">Serie Xk</field>
+      <field name="marca" ref="37"/>
+</record>
+
+
+
+<record id="modelo_399" model="modelos">
+      <field name="name">Xj</field>
+      <field name="marca" ref="37"/>
+</record>
+
+
+
+<record id="modelo_400" model="modelos">
+      <field name="name">Stype</field>
+      <field name="marca" ref="37"/>
+</record>
+
+
+
+<record id="modelo_401" model="modelos">
+      <field name="name">Xf</field>
+      <field name="marca" ref="37"/>
+</record>
+
+
+
+<record id="modelo_402" model="modelos">
+      <field name="name">Xtype</field>
+      <field name="marca" ref="37"/>
+</record>
+
+
+
+<record id="modelo_403" model="modelos">
+      <field name="name">Wrangler</field>
+      <field name="marca" ref="38"/>
+</record>
+
+
+
+<record id="modelo_404" model="modelos">
+      <field name="name">Cherokee</field>
+      <field name="marca" ref="38"/>
+</record>
+
+
+
+<record id="modelo_405" model="modelos">
+      <field name="name">Grand Cherokee</field>
+      <field name="marca" ref="38"/>
+</record>
+
+
+
+<record id="modelo_406" model="modelos">
+      <field name="name">Commander</field>
+      <field name="marca" ref="38"/>
+</record>
+
+
+
+<record id="modelo_407" model="modelos">
+      <field name="name">Compass</field>
+      <field name="marca" ref="38"/>
+</record>
+
+
+
+<record id="modelo_408" model="modelos">
+      <field name="name">Wrangler Unlimited</field>
+      <field name="marca" ref="38"/>
+</record>
+
+
+
+<record id="modelo_409" model="modelos">
+      <field name="name">Patriot</field>
+      <field name="marca" ref="38"/>
+</record>
+
+
+
+<record id="modelo_410" model="modelos">
+      <field name="name">Sportage</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_411" model="modelos">
+      <field name="name">Sephia</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_412" model="modelos">
+      <field name="name">Sephia Ii</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_413" model="modelos">
+      <field name="name">Pride</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_414" model="modelos">
+      <field name="name">Clarus</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_415" model="modelos">
+      <field name="name">Shuma</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_416" model="modelos">
+      <field name="name">Carnival</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_417" model="modelos">
+      <field name="name">Joice</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_418" model="modelos">
+      <field name="name">Magentis</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_419" model="modelos">
+      <field name="name">Carens</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_420" model="modelos">
+      <field name="name">Rio</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_421" model="modelos">
+      <field name="name">Cerato</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_422" model="modelos">
+      <field name="name">Sorento</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_423" model="modelos">
+      <field name="name">Opirus</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_424" model="modelos">
+      <field name="name">Picanto</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_425" model="modelos">
+      <field name="name">Ceed</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_426" model="modelos">
+      <field name="name">Ceed Sporty Wagon</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_427" model="modelos">
+      <field name="name">Proceed</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_428" model="modelos">
+      <field name="name">K2500 Frontier</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_429" model="modelos">
+      <field name="name">K2500</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_430" model="modelos">
+      <field name="name">Soul</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_431" model="modelos">
+      <field name="name">Venga</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_432" model="modelos">
+      <field name="name">Optima</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_433" model="modelos">
+      <field name="name">Ceed Sportswagon</field>
+      <field name="marca" ref="39"/>
+</record>
+
+
+
+<record id="modelo_434" model="modelos">
+      <field name="name">Samara</field>
+      <field name="marca" ref="40"/>
+</record>
+
+
+
+<record id="modelo_435" model="modelos">
+      <field name="name">Niva</field>
+      <field name="marca" ref="40"/>
+</record>
+
+
+
+<record id="modelo_436" model="modelos">
+      <field name="name">Sagona</field>
+      <field name="marca" ref="40"/>
+</record>
+
+
+
+<record id="modelo_437" model="modelos">
+      <field name="name">Stawra 2110</field>
+      <field name="marca" ref="40"/>
+</record>
+
+
+
+<record id="modelo_438" model="modelos">
+      <field name="name">214</field>
+      <field name="marca" ref="40"/>
+</record>
+
+
+
+<record id="modelo_439" model="modelos">
+      <field name="name">Kalina</field>
+      <field name="marca" ref="40"/>
+</record>
+
+
+
+<record id="modelo_440" model="modelos">
+      <field name="name">Serie 2100</field>
+      <field name="marca" ref="40"/>
+</record>
+
+
+
+<record id="modelo_441" model="modelos">
+      <field name="name">Priora</field>
+      <field name="marca" ref="40"/>
+</record>
+
+
+
+<record id="modelo_442" model="modelos">
+      <field name="name">Gallardo</field>
+      <field name="marca" ref="41"/>
+</record>
+
+
+
+<record id="modelo_443" model="modelos">
+      <field name="name">Murcielago</field>
+      <field name="marca" ref="41"/>
+</record>
+
+
+
+<record id="modelo_444" model="modelos">
+      <field name="name">Aventador</field>
+      <field name="marca" ref="41"/>
+</record>
+
+
+
+<record id="modelo_445" model="modelos">
+      <field name="name">Delta</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_446" model="modelos">
+      <field name="name">K</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_447" model="modelos">
+      <field name="name">Y10</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_448" model="modelos">
+      <field name="name">Dedra</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_449" model="modelos">
+      <field name="name">Lybra</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_450" model="modelos">
+      <field name="name">Z</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_451" model="modelos">
+      <field name="name">Y</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_452" model="modelos">
+      <field name="name">Ypsilon</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_453" model="modelos">
+      <field name="name">Thesis</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_454" model="modelos">
+      <field name="name">Phedra</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_455" model="modelos">
+      <field name="name">Musa</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_456" model="modelos">
+      <field name="name">Thema</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_457" model="modelos">
+      <field name="name">Zeta</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_458" model="modelos">
+      <field name="name">Kappa</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_459" model="modelos">
+      <field name="name">Trevi</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_460" model="modelos">
+      <field name="name">Prisma</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_461" model="modelos">
+      <field name="name">A112</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_462" model="modelos">
+      <field name="name">Ypsilon Elefantino</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_463" model="modelos">
+      <field name="name">Voyager</field>
+      <field name="marca" ref="42"/>
+</record>
+
+
+
+<record id="modelo_464" model="modelos">
+      <field name="name">Range Rover</field>
+      <field name="marca" ref="43"/>
+</record>
+
+
+
+<record id="modelo_465" model="modelos">
+      <field name="name">Defender</field>
+      <field name="marca" ref="43"/>
+</record>
+
+
+
+<record id="modelo_466" model="modelos">
+      <field name="name">Discovery</field>
+      <field name="marca" ref="43"/>
+</record>
+
+
+
+<record id="modelo_467" model="modelos">
+      <field name="name">Freelander</field>
+      <field name="marca" ref="43"/>
+</record>
+
+
+
+<record id="modelo_468" model="modelos">
+      <field name="name">Range Rover Sport</field>
+      <field name="marca" ref="43"/>
+</record>
+
+
+
+<record id="modelo_469" model="modelos">
+      <field name="name">Discovery 4</field>
+      <field name="marca" ref="43"/>
+</record>
+
+
+
+<record id="modelo_470" model="modelos">
+      <field name="name">Range Rover Evoque</field>
+      <field name="marca" ref="43"/>
+</record>
+
+
+
+<record id="modelo_471" model="modelos">
+      <field name="name">Maxus</field>
+      <field name="marca" ref="44"/>
+</record>
+
+
+
+<record id="modelo_472" model="modelos">
+      <field name="name">Ls400</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_473" model="modelos">
+      <field name="name">Ls430</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_474" model="modelos">
+      <field name="name">Gs300</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_475" model="modelos">
+      <field name="name">Is200</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_476" model="modelos">
+      <field name="name">Rx300</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_477" model="modelos">
+      <field name="name">Gs430</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_478" model="modelos">
+      <field name="name">Gs460</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_479" model="modelos">
+      <field name="name">Sc430</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_480" model="modelos">
+      <field name="name">Is300</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_481" model="modelos">
+      <field name="name">Is250</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_482" model="modelos">
+      <field name="name">Rx400h</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_483" model="modelos">
+      <field name="name">Is220d</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_484" model="modelos">
+      <field name="name">Rx350</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_485" model="modelos">
+      <field name="name">Gs450h</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_486" model="modelos">
+      <field name="name">Ls460</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_487" model="modelos">
+      <field name="name">Ls600h</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_488" model="modelos">
+      <field name="name">Ls</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_489" model="modelos">
+      <field name="name">Gs</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_490" model="modelos">
+      <field name="name">Is</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_491" model="modelos">
+      <field name="name">Sc</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_492" model="modelos">
+      <field name="name">Rx</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_493" model="modelos">
+      <field name="name">Ct</field>
+      <field name="marca" ref="45"/>
+</record>
+
+
+
+<record id="modelo_494" model="modelos">
+      <field name="name">Elise</field>
+      <field name="marca" ref="46"/>
+</record>
+
+
+
+<record id="modelo_495" model="modelos">
+      <field name="name">Exige</field>
+      <field name="marca" ref="46"/>
+</record>
+
+
+
+<record id="modelo_496" model="modelos">
+      <field name="name">Bolero Pickup</field>
+      <field name="marca" ref="47"/>
+</record>
+
+
+
+<record id="modelo_497" model="modelos">
+      <field name="name">Goa Pickup</field>
+      <field name="marca" ref="47"/>
+</record>
+
+
+
+<record id="modelo_498" model="modelos">
+      <field name="name">Goa</field>
+      <field name="marca" ref="47"/>
+</record>
+
+
+
+<record id="modelo_499" model="modelos">
+      <field name="name">Cj</field>
+      <field name="marca" ref="47"/>
+</record>
+
+
+
+<record id="modelo_500" model="modelos">
+      <field name="name">Pikup</field>
+      <field name="marca" ref="47"/>
+</record>
+
+
+
+<record id="modelo_501" model="modelos">
+      <field name="name">Thar</field>
+      <field name="marca" ref="47"/>
+</record>
+
+
+
+<record id="modelo_502" model="modelos">
+      <field name="name">Ghibli</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_503" model="modelos">
+      <field name="name">Shamal</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_504" model="modelos">
+      <field name="name">Quattroporte</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_505" model="modelos">
+      <field name="name">3200 Gt</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_506" model="modelos">
+      <field name="name">Coupe</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_507" model="modelos">
+      <field name="name">Spyder</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_508" model="modelos">
+      <field name="name">Gransport</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_509" model="modelos">
+      <field name="name">Granturismo</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_510" model="modelos">
+      <field name="name">430</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_511" model="modelos">
+      <field name="name">Biturbo</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_512" model="modelos">
+      <field name="name">228</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_513" model="modelos">
+      <field name="name">224</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_514" model="modelos">
+      <field name="name">Grancabrio</field>
+      <field name="marca" ref="48"/>
+</record>
+
+
+
+<record id="modelo_515" model="modelos">
+      <field name="name">Maybach</field>
+      <field name="marca" ref="49"/>
+</record>
+
+
+
+<record id="modelo_516" model="modelos">
+      <field name="name">Xedos 6</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_517" model="modelos">
+      <field name="name">626</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_518" model="modelos">
+      <field name="name">121</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_519" model="modelos">
+      <field name="name">Xedos 9</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_520" model="modelos">
+      <field name="name">323</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_521" model="modelos">
+      <field name="name">Mx3</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_522" model="modelos">
+      <field name="name">Rx7</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_523" model="modelos">
+      <field name="name">Mx5</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_524" model="modelos">
+      <field name="name">Mazda3</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_525" model="modelos">
+      <field name="name">Mpv</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_526" model="modelos">
+      <field name="name">Demio</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_527" model="modelos">
+      <field name="name">Premacy</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_528" model="modelos">
+      <field name="name">Tribute</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_529" model="modelos">
+      <field name="name">Mazda6</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_530" model="modelos">
+      <field name="name">Mazda2</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_531" model="modelos">
+      <field name="name">Rx8</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_532" model="modelos">
+      <field name="name">Mazda5</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_533" model="modelos">
+      <field name="name">Cx7</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_534" model="modelos">
+      <field name="name">Serie B</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_535" model="modelos">
+      <field name="name">B2500</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_536" model="modelos">
+      <field name="name">Bt50</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_537" model="modelos">
+      <field name="name">Mx6</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_538" model="modelos">
+      <field name="name">929</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_539" model="modelos">
+      <field name="name">Cx5</field>
+      <field name="marca" ref="50"/>
+</record>
+
+
+
+<record id="modelo_540" model="modelos">
+      <field name="name">Clase C</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_541" model="modelos">
+      <field name="name">Clase E</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_542" model="modelos">
+      <field name="name">Clase Sl</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_543" model="modelos">
+      <field name="name">Clase S</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_544" model="modelos">
+      <field name="name">Clase Cl</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_545" model="modelos">
+      <field name="name">Clase G</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_546" model="modelos">
+      <field name="name">Clase Slk</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_547" model="modelos">
+      <field name="name">Clase V</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_548" model="modelos">
+      <field name="name">Viano</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_549" model="modelos">
+      <field name="name">Clase Clk</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_550" model="modelos">
+      <field name="name">Clase A</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_551" model="modelos">
+      <field name="name">Clase M</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_552" model="modelos">
+      <field name="name">Vaneo</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_553" model="modelos">
+      <field name="name">Slklasse</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_554" model="modelos">
+      <field name="name">Slr Mclaren</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_555" model="modelos">
+      <field name="name">Clase Cls</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_556" model="modelos">
+      <field name="name">Clase R</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_557" model="modelos">
+      <field name="name">Clase Gl</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_558" model="modelos">
+      <field name="name">Clase B</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_559" model="modelos">
+      <field name="name">100d</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_560" model="modelos">
+      <field name="name">140d</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_561" model="modelos">
+      <field name="name">180d</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_562" model="modelos">
+      <field name="name">Sprinter</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_563" model="modelos">
+      <field name="name">Vito</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_564" model="modelos">
+      <field name="name">Transporter</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_565" model="modelos">
+      <field name="name">280</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_566" model="modelos">
+      <field name="name">220</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_567" model="modelos">
+      <field name="name">200</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_568" model="modelos">
+      <field name="name">190</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_569" model="modelos">
+      <field name="name">600</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_570" model="modelos">
+      <field name="name">400</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_571" model="modelos">
+      <field name="name">Clase Sl R129</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_572" model="modelos">
+      <field name="name">300</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_573" model="modelos">
+      <field name="name">500</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_574" model="modelos">
+      <field name="name">420</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_575" model="modelos">
+      <field name="name">260</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_576" model="modelos">
+      <field name="name">230</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_577" model="modelos">
+      <field name="name">Clase Clc</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_578" model="modelos">
+      <field name="name">Clase Glk</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_579" model="modelos">
+      <field name="name">Sls Amg</field>
+      <field name="marca" ref="51"/>
+</record>
+
+
+
+<record id="modelo_580" model="modelos">
+      <field name="name">Mgf</field>
+      <field name="marca" ref="52"/>
+</record>
+
+
+
+<record id="modelo_581" model="modelos">
+      <field name="name">Tf</field>
+      <field name="marca" ref="52"/>
+</record>
+
+
+
+<record id="modelo_582" model="modelos">
+      <field name="name">Zr</field>
+      <field name="marca" ref="52"/>
+</record>
+
+
+
+<record id="modelo_583" model="modelos">
+      <field name="name">Zs</field>
+      <field name="marca" ref="52"/>
+</record>
+
+
+
+<record id="modelo_584" model="modelos">
+      <field name="name">Zt</field>
+      <field name="marca" ref="52"/>
+</record>
+
+
+
+<record id="modelo_585" model="modelos">
+      <field name="name">Ztt</field>
+      <field name="marca" ref="52"/>
+</record>
+
+
+
+<record id="modelo_586" model="modelos">
+      <field name="name">Mini</field>
+      <field name="marca" ref="52"/>
+</record>
+
+
+
+<record id="modelo_587" model="modelos">
+      <field name="name">Countryman</field>
+      <field name="marca" ref="52"/>
+</record>
+
+
+
+<record id="modelo_588" model="modelos">
+      <field name="name">Paceman</field>
+      <field name="marca" ref="52"/>
+</record>
+
+
+
+<record id="modelo_589" model="modelos">
+      <field name="name">Montero</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_590" model="modelos">
+      <field name="name">Galant</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_591" model="modelos">
+      <field name="name">Colt</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_592" model="modelos">
+      <field name="name">Space Wagon</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_593" model="modelos">
+      <field name="name">Space Runner</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_594" model="modelos">
+      <field name="name">Space Gear</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_595" model="modelos">
+      <field name="name">3000 Gt</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_596" model="modelos">
+      <field name="name">Carisma</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_597" model="modelos">
+      <field name="name">Eclipse</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_598" model="modelos">
+      <field name="name">Space Star</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_599" model="modelos">
+      <field name="name">Montero Sport</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_600" model="modelos">
+      <field name="name">Montero Io</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_601" model="modelos">
+      <field name="name">Outlander</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_602" model="modelos">
+      <field name="name">Lancer</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_603" model="modelos">
+      <field name="name">Grandis</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_604" model="modelos">
+      <field name="name">L200</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_605" model="modelos">
+      <field name="name">Canter</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_606" model="modelos">
+      <field name="name">300 Gt</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_607" model="modelos">
+      <field name="name">Asx</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_608" model="modelos">
+      <field name="name">Imiev</field>
+      <field name="marca" ref="54"/>
+</record>
+
+
+
+<record id="modelo_609" model="modelos">
+      <field name="name">44</field>
+      <field name="marca" ref="55"/>
+</record>
+
+
+
+<record id="modelo_610" model="modelos">
+      <field name="name">Plus 8</field>
+      <field name="marca" ref="55"/>
+</record>
+
+
+
+<record id="modelo_611" model="modelos">
+      <field name="name">Aero 8</field>
+      <field name="marca" ref="55"/>
+</record>
+
+
+
+<record id="modelo_612" model="modelos">
+      <field name="name">V6</field>
+      <field name="marca" ref="55"/>
+</record>
+
+
+
+<record id="modelo_613" model="modelos">
+      <field name="name">Roadster</field>
+      <field name="marca" ref="55"/>
+</record>
+
+
+
+<record id="modelo_614" model="modelos">
+      <field name="name">4</field>
+      <field name="marca" ref="55"/>
+</record>
+
+
+
+<record id="modelo_615" model="modelos">
+      <field name="name">Plus 4</field>
+      <field name="marca" ref="55"/>
+</record>
+
+
+
+<record id="modelo_616" model="modelos">
+      <field name="name">Terrano Ii</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_617" model="modelos">
+      <field name="name">Terrano</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_618" model="modelos">
+      <field name="name">Micra</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_619" model="modelos">
+      <field name="name">Sunny</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_620" model="modelos">
+      <field name="name">Primera</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_621" model="modelos">
+      <field name="name">Serena</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_622" model="modelos">
+      <field name="name">Patrol</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_623" model="modelos">
+      <field name="name">Maxima Qx</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_624" model="modelos">
+      <field name="name">200 Sx</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_625" model="modelos">
+      <field name="name">300 Zx</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_626" model="modelos">
+      <field name="name">Patrol Gr</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_627" model="modelos">
+      <field name="name">100 Nx</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_628" model="modelos">
+      <field name="name">Almera</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_629" model="modelos">
+      <field name="name">Pathfinder</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_630" model="modelos">
+      <field name="name">Almera Tino</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_631" model="modelos">
+      <field name="name">Xtrail</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_632" model="modelos">
+      <field name="name">350z</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_633" model="modelos">
+      <field name="name">Murano</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_634" model="modelos">
+      <field name="name">Note</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_635" model="modelos">
+      <field name="name">Qashqai</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_636" model="modelos">
+      <field name="name">Tiida</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_637" model="modelos">
+      <field name="name">Vanette</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_638" model="modelos">
+      <field name="name">Trade</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_639" model="modelos">
+      <field name="name">Vanette Cargo</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_640" model="modelos">
+      <field name="name">Pickup</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_641" model="modelos">
+      <field name="name">Navara</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_642" model="modelos">
+      <field name="name">Cabstar E</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_643" model="modelos">
+      <field name="name">Cabstar</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_644" model="modelos">
+      <field name="name">Maxima</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_645" model="modelos">
+      <field name="name">Camion</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_646" model="modelos">
+      <field name="name">Prairie</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_647" model="modelos">
+      <field name="name">Bluebird</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_648" model="modelos">
+      <field name="name">Np300 Pick Up</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_649" model="modelos">
+      <field name="name">Qashqai2</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_650" model="modelos">
+      <field name="name">Pixo</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_651" model="modelos">
+      <field name="name">Gtr</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_652" model="modelos">
+      <field name="name">370z</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_653" model="modelos">
+      <field name="name">Cube</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_654" model="modelos">
+      <field name="name">Juke</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_655" model="modelos">
+      <field name="name">Leaf</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_656" model="modelos">
+      <field name="name">Evalia</field>
+      <field name="marca" ref="56"/>
+</record>
+
+
+
+<record id="modelo_657" model="modelos">
+      <field name="name">Astra</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_658" model="modelos">
+      <field name="name">Vectra</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_659" model="modelos">
+      <field name="name">Calibra</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_660" model="modelos">
+      <field name="name">Corsa</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_661" model="modelos">
+      <field name="name">Omega</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_662" model="modelos">
+      <field name="name">Frontera</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_663" model="modelos">
+      <field name="name">Tigra</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_664" model="modelos">
+      <field name="name">Monterey</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_665" model="modelos">
+      <field name="name">Sintra</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_666" model="modelos">
+      <field name="name">Zafira</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_667" model="modelos">
+      <field name="name">Agila</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_668" model="modelos">
+      <field name="name">Speedster</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_669" model="modelos">
+      <field name="name">Signum</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_670" model="modelos">
+      <field name="name">Meriva</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_671" model="modelos">
+      <field name="name">Antara</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_672" model="modelos">
+      <field name="name">Gt</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_673" model="modelos">
+      <field name="name">Combo</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_674" model="modelos">
+      <field name="name">Movano</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_675" model="modelos">
+      <field name="name">Vivaro</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_676" model="modelos">
+      <field name="name">Kadett</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_677" model="modelos">
+      <field name="name">Monza</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_678" model="modelos">
+      <field name="name">Senator</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_679" model="modelos">
+      <field name="name">Rekord</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_680" model="modelos">
+      <field name="name">Manta</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_681" model="modelos">
+      <field name="name">Ascona</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_682" model="modelos">
+      <field name="name">Insignia</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_683" model="modelos">
+      <field name="name">Zafira Tourer</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_684" model="modelos">
+      <field name="name">Ampera</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_685" model="modelos">
+      <field name="name">Mokka</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_686" model="modelos">
+      <field name="name">Adam</field>
+      <field name="marca" ref="57"/>
+</record>
+
+
+
+<record id="modelo_687" model="modelos">
+      <field name="name">306</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_688" model="modelos">
+      <field name="name">605</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_689" model="modelos">
+      <field name="name">106</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_690" model="modelos">
+      <field name="name">205</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_691" model="modelos">
+      <field name="name">405</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_692" model="modelos">
+      <field name="name">406</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_693" model="modelos">
+      <field name="name">806</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_694" model="modelos">
+      <field name="name">807</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_695" model="modelos">
+      <field name="name">407</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_696" model="modelos">
+      <field name="name">307</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_697" model="modelos">
+      <field name="name">206</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_698" model="modelos">
+      <field name="name">607</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_699" model="modelos">
+      <field name="name">308</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_700" model="modelos">
+      <field name="name">307 Sw</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_701" model="modelos">
+      <field name="name">206 Sw</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_702" model="modelos">
+      <field name="name">407 Sw</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_703" model="modelos">
+      <field name="name">1007</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_704" model="modelos">
+      <field name="name">107</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_705" model="modelos">
+      <field name="name">207</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_706" model="modelos">
+      <field name="name">4007</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_707" model="modelos">
+      <field name="name">Boxer</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_708" model="modelos">
+      <field name="name">Partner</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_709" model="modelos">
+      <field name="name">J5</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_710" model="modelos">
+      <field name="name">604</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_711" model="modelos">
+      <field name="name">505</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_712" model="modelos">
+      <field name="name">309</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_713" model="modelos">
+      <field name="name">Bipper</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_714" model="modelos">
+      <field name="name">Partner Origin</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_715" model="modelos">
+      <field name="name">3008</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_716" model="modelos">
+      <field name="name">5008</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_717" model="modelos">
+      <field name="name">Rcz</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_718" model="modelos">
+      <field name="name">508</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_719" model="modelos">
+      <field name="name">Ion</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_720" model="modelos">
+      <field name="name">208</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_721" model="modelos">
+      <field name="name">4008</field>
+      <field name="marca" ref="58"/>
+</record>
+
+
+
+<record id="modelo_722" model="modelos">
+      <field name="name">Trans Sport</field>
+      <field name="marca" ref="59"/>
+</record>
+
+
+
+<record id="modelo_723" model="modelos">
+      <field name="name">Firebird</field>
+      <field name="marca" ref="59"/>
+</record>
+
+
+
+<record id="modelo_724" model="modelos">
+      <field name="name">Trans Am</field>
+      <field name="marca" ref="59"/>
+</record>
+
+
+
+<record id="modelo_725" model="modelos">
+      <field name="name">911</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_726" model="modelos">
+      <field name="name">Boxster</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_727" model="modelos">
+      <field name="name">Cayenne</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_728" model="modelos">
+      <field name="name">Carrera Gt</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_729" model="modelos">
+      <field name="name">Cayman</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_730" model="modelos">
+      <field name="name">928</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_731" model="modelos">
+      <field name="name">968</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_732" model="modelos">
+      <field name="name">944</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_733" model="modelos">
+      <field name="name">924</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_734" model="modelos">
+      <field name="name">Panamera</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_735" model="modelos">
+      <field name="name">918</field>
+      <field name="marca" ref="60"/>
+</record>
+
+
+
+<record id="modelo_736" model="modelos">
+      <field name="name">Megane</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_737" model="modelos">
+      <field name="name">Safrane</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_738" model="modelos">
+      <field name="name">Laguna</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_739" model="modelos">
+      <field name="name">Clio</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_740" model="modelos">
+      <field name="name">Twingo</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_741" model="modelos">
+      <field name="name">Nevada</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_742" model="modelos">
+      <field name="name">Espace</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_743" model="modelos">
+      <field name="name">Spider</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_744" model="modelos">
+      <field name="name">Scenic</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_745" model="modelos">
+      <field name="name">Grand Espace</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_746" model="modelos">
+      <field name="name">Avantime</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_747" model="modelos">
+      <field name="name">Vel Satis</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_748" model="modelos">
+      <field name="name">Grand Scenic</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_749" model="modelos">
+      <field name="name">Clio Campus</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_750" model="modelos">
+      <field name="name">Modus</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_751" model="modelos">
+      <field name="name">Express</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_752" model="modelos">
+      <field name="name">Trafic</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_753" model="modelos">
+      <field name="name">Master</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_754" model="modelos">
+      <field name="name">Kangoo</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_755" model="modelos">
+      <field name="name">Mascott</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_756" model="modelos">
+      <field name="name">Master Propulsion</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_757" model="modelos">
+      <field name="name">Maxity</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_758" model="modelos">
+      <field name="name">R19</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_759" model="modelos">
+      <field name="name">R25</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_760" model="modelos">
+      <field name="name">R5</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_761" model="modelos">
+      <field name="name">R21</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_762" model="modelos">
+      <field name="name">R4</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_763" model="modelos">
+      <field name="name">Alpine</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_764" model="modelos">
+      <field name="name">Fuego</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_765" model="modelos">
+      <field name="name">R18</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_766" model="modelos">
+      <field name="name">R11</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_767" model="modelos">
+      <field name="name">R9</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_768" model="modelos">
+      <field name="name">R6</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_769" model="modelos">
+      <field name="name">Grand Modus</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_770" model="modelos">
+      <field name="name">Kangoo Combi</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_771" model="modelos">
+      <field name="name">Koleos</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_772" model="modelos">
+      <field name="name">Fluence</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_773" model="modelos">
+      <field name="name">Wind</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_774" model="modelos">
+      <field name="name">Latitude</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_775" model="modelos">
+      <field name="name">Grand Kangoo Combi</field>
+      <field name="marca" ref="61"/>
+</record>
+
+
+
+<record id="modelo_776" model="modelos">
+      <field name="name">Siver Dawn</field>
+      <field name="marca" ref="62"/>
+</record>
+
+
+
+<record id="modelo_777" model="modelos">
+      <field name="name">Silver Spur</field>
+      <field name="marca" ref="62"/>
+</record>
+
+
+
+<record id="modelo_778" model="modelos">
+      <field name="name">Park Ward</field>
+      <field name="marca" ref="62"/>
+</record>
+
+
+
+<record id="modelo_779" model="modelos">
+      <field name="name">Silver Seraph</field>
+      <field name="marca" ref="62"/>
+</record>
+
+
+
+<record id="modelo_780" model="modelos">
+      <field name="name">Corniche</field>
+      <field name="marca" ref="62"/>
+</record>
+
+
+
+<record id="modelo_781" model="modelos">
+      <field name="name">Phantom</field>
+      <field name="marca" ref="62"/>
+</record>
+
+
+
+<record id="modelo_782" model="modelos">
+      <field name="name">Touring</field>
+      <field name="marca" ref="62"/>
+</record>
+
+
+
+<record id="modelo_783" model="modelos">
+      <field name="name">Silvier</field>
+      <field name="marca" ref="62"/>
+</record>
+
+
+
+<record id="modelo_784" model="modelos">
+      <field name="name">800</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_785" model="modelos">
+      <field name="name">600</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_786" model="modelos">
+      <field name="name">100</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_787" model="modelos">
+      <field name="name">200</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_788" model="modelos">
+      <field name="name">Coupe</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_789" model="modelos">
+      <field name="name">400</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_790" model="modelos">
+      <field name="name">45</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_791" model="modelos">
+      <field name="name">Cabriolet</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_792" model="modelos">
+      <field name="name">25</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_793" model="modelos">
+      <field name="name">Mini</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_794" model="modelos">
+      <field name="name">75</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_795" model="modelos">
+      <field name="name">Streetwise</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_796" model="modelos">
+      <field name="name">Sd</field>
+      <field name="marca" ref="63"/>
+</record>
+
+
+
+<record id="modelo_797" model="modelos">
+      <field name="name">900</field>
+      <field name="marca" ref="64"/>
+</record>
+
+
+
+<record id="modelo_798" model="modelos">
+      <field name="name">93</field>
+      <field name="marca" ref="64"/>
+</record>
+
+
+
+<record id="modelo_799" model="modelos">
+      <field name="name">9000</field>
+      <field name="marca" ref="64"/>
+</record>
+
+
+
+<record id="modelo_800" model="modelos">
+      <field name="name">95</field>
+      <field name="marca" ref="64"/>
+</record>
+
+
+
+<record id="modelo_801" model="modelos">
+      <field name="name">93x</field>
+      <field name="marca" ref="64"/>
+</record>
+
+
+
+<record id="modelo_802" model="modelos">
+      <field name="name">94x</field>
+      <field name="marca" ref="64"/>
+</record>
+
+
+
+<record id="modelo_803" model="modelos">
+      <field name="name">300</field>
+      <field name="marca" ref="65"/>
+</record>
+
+
+
+<record id="modelo_804" model="modelos">
+      <field name="name">350</field>
+      <field name="marca" ref="65"/>
+</record>
+
+
+
+<record id="modelo_805" model="modelos">
+      <field name="name">Anibal</field>
+      <field name="marca" ref="65"/>
+</record>
+
+
+
+<record id="modelo_806" model="modelos">
+      <field name="name">Anibal Pick Up</field>
+      <field name="marca" ref="65"/>
+</record>
+
+
+
+<record id="modelo_807" model="modelos">
+      <field name="name">Ibiza</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_808" model="modelos">
+      <field name="name">Cordoba</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_809" model="modelos">
+      <field name="name">Toledo</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_810" model="modelos">
+      <field name="name">Marbella</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_811" model="modelos">
+      <field name="name">Alhambra</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_812" model="modelos">
+      <field name="name">Arosa</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_813" model="modelos">
+      <field name="name">Leon</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_814" model="modelos">
+      <field name="name">Altea</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_815" model="modelos">
+      <field name="name">Altea Xl</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_816" model="modelos">
+      <field name="name">Altea Freetrack</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_817" model="modelos">
+      <field name="name">Terra</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_818" model="modelos">
+      <field name="name">Inca</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_819" model="modelos">
+      <field name="name">Malaga</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_820" model="modelos">
+      <field name="name">Ronda</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_821" model="modelos">
+      <field name="name">Exeo</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_822" model="modelos">
+      <field name="name">Mii</field>
+      <field name="marca" ref="66"/>
+</record>
+
+
+
+<record id="modelo_823" model="modelos">
+      <field name="name">Felicia</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_824" model="modelos">
+      <field name="name">Forman</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_825" model="modelos">
+      <field name="name">Octavia</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_826" model="modelos">
+      <field name="name">Octavia Tour</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_827" model="modelos">
+      <field name="name">Fabia</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_828" model="modelos">
+      <field name="name">Superb</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_829" model="modelos">
+      <field name="name">Roomster</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_830" model="modelos">
+      <field name="name">Scout</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_831" model="modelos">
+      <field name="name">Pickup</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_832" model="modelos">
+      <field name="name">Favorit</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_833" model="modelos">
+      <field name="name">130</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_834" model="modelos">
+      <field name="name">S</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_835" model="modelos">
+      <field name="name">Yeti</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_836" model="modelos">
+      <field name="name">Citigo</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_837" model="modelos">
+      <field name="name">Rapid</field>
+      <field name="marca" ref="67"/>
+</record>
+
+
+
+<record id="modelo_838" model="modelos">
+      <field name="name">Smart</field>
+      <field name="marca" ref="68"/>
+</record>
+
+
+
+<record id="modelo_839" model="modelos">
+      <field name="name">Citycoupe</field>
+      <field name="marca" ref="68"/>
+</record>
+
+
+
+<record id="modelo_840" model="modelos">
+      <field name="name">Fortwo</field>
+      <field name="marca" ref="68"/>
+</record>
+
+
+
+<record id="modelo_841" model="modelos">
+      <field name="name">Cabrio</field>
+      <field name="marca" ref="68"/>
+</record>
+
+
+
+<record id="modelo_842" model="modelos">
+      <field name="name">Crossblade</field>
+      <field name="marca" ref="68"/>
+</record>
+
+
+
+<record id="modelo_843" model="modelos">
+      <field name="name">Roadster</field>
+      <field name="marca" ref="68"/>
+</record>
+
+
+
+<record id="modelo_844" model="modelos">
+      <field name="name">Forfour</field>
+      <field name="marca" ref="68"/>
+</record>
+
+
+
+<record id="modelo_845" model="modelos">
+      <field name="name">Korando</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_846" model="modelos">
+      <field name="name">Family</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_847" model="modelos">
+      <field name="name">K4d</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_848" model="modelos">
+      <field name="name">Musso</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_849" model="modelos">
+      <field name="name">Korando Kj</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_850" model="modelos">
+      <field name="name">Rexton</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_851" model="modelos">
+      <field name="name">Rexton Ii</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_852" model="modelos">
+      <field name="name">Rodius</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_853" model="modelos">
+      <field name="name">Kyron</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_854" model="modelos">
+      <field name="name">Actyon</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_855" model="modelos">
+      <field name="name">Sports Pick Up</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_856" model="modelos">
+      <field name="name">Actyon Sports Pick Up</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_857" model="modelos">
+      <field name="name">Kodando</field>
+      <field name="marca" ref="69"/>
+</record>
+
+
+
+<record id="modelo_858" model="modelos">
+      <field name="name">Legacy</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_859" model="modelos">
+      <field name="name">Impreza</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_860" model="modelos">
+      <field name="name">Svx</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_861" model="modelos">
+      <field name="name">Justy</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_862" model="modelos">
+      <field name="name">Outback</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_863" model="modelos">
+      <field name="name">Forester</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_864" model="modelos">
+      <field name="name">G3x Justy</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_865" model="modelos">
+      <field name="name">B9 Tribeca</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_866" model="modelos">
+      <field name="name">Xt</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_867" model="modelos">
+      <field name="name">1800</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_868" model="modelos">
+      <field name="name">Tribeca</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_869" model="modelos">
+      <field name="name">Wrx Sti</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_870" model="modelos">
+      <field name="name">Trezia</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_871" model="modelos">
+      <field name="name">Xv</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_872" model="modelos">
+      <field name="name">Brz</field>
+      <field name="marca" ref="70"/>
+</record>
+
+
+
+<record id="modelo_873" model="modelos">
+      <field name="name">Maruti</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_874" model="modelos">
+      <field name="name">Swift</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_875" model="modelos">
+      <field name="name">Vitara</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_876" model="modelos">
+      <field name="name">Baleno</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_877" model="modelos">
+      <field name="name">Samurai</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_878" model="modelos">
+      <field name="name">Alto</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_879" model="modelos">
+      <field name="name">Wagon R</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_880" model="modelos">
+      <field name="name">Jimny</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_881" model="modelos">
+      <field name="name">Grand Vitara</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_882" model="modelos">
+      <field name="name">Ignis</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_883" model="modelos">
+      <field name="name">Liana</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_884" model="modelos">
+      <field name="name">Grand Vitara Xl7</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_885" model="modelos">
+      <field name="name">Sx4</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_886" model="modelos">
+      <field name="name">Splash</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_887" model="modelos">
+      <field name="name">Kizashi</field>
+      <field name="marca" ref="71"/>
+</record>
+
+
+
+<record id="modelo_888" model="modelos">
+      <field name="name">Samba</field>
+      <field name="marca" ref="72"/>
+</record>
+
+
+
+<record id="modelo_889" model="modelos">
+      <field name="name">Tagora</field>
+      <field name="marca" ref="72"/>
+</record>
+
+
+
+<record id="modelo_890" model="modelos">
+      <field name="name">Solara</field>
+      <field name="marca" ref="72"/>
+</record>
+
+
+
+<record id="modelo_891" model="modelos">
+      <field name="name">Horizon</field>
+      <field name="marca" ref="72"/>
+</record>
+
+
+
+<record id="modelo_892" model="modelos">
+      <field name="name">Telcosport</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_893" model="modelos">
+      <field name="name">Telco</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_894" model="modelos">
+      <field name="name">Sumo</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_895" model="modelos">
+      <field name="name">Safari</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_896" model="modelos">
+      <field name="name">Indica</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_897" model="modelos">
+      <field name="name">Indigo</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_898" model="modelos">
+      <field name="name">Grand Safari</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_899" model="modelos">
+      <field name="name">Tl Pick Up</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_900" model="modelos">
+      <field name="name">Xenon Pick Up</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_901" model="modelos">
+      <field name="name">Vista</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_902" model="modelos">
+      <field name="name">Xenon</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_903" model="modelos">
+      <field name="name">Aria</field>
+      <field name="marca" ref="73"/>
+</record>
+
+
+
+<record id="modelo_904" model="modelos">
+      <field name="name">Carina E</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_905" model="modelos">
+      <field name="name">4runner</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_906" model="modelos">
+      <field name="name">Camry</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_907" model="modelos">
+      <field name="name">Rav4</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_908" model="modelos">
+      <field name="name">Celica</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_909" model="modelos">
+      <field name="name">Supra</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_910" model="modelos">
+      <field name="name">Paseo</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_911" model="modelos">
+      <field name="name">Land Cruiser 80</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_912" model="modelos">
+      <field name="name">Land Cruiser 100</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_913" model="modelos">
+      <field name="name">Land Cruiser</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_914" model="modelos">
+      <field name="name">Land Cruiser 90</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_915" model="modelos">
+      <field name="name">Corolla</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_916" model="modelos">
+      <field name="name">Auris</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_917" model="modelos">
+      <field name="name">Avensis</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_918" model="modelos">
+      <field name="name">Picnic</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_919" model="modelos">
+      <field name="name">Yaris</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_920" model="modelos">
+      <field name="name">Yaris Verso</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_921" model="modelos">
+      <field name="name">Mr2</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_922" model="modelos">
+      <field name="name">Previa</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_923" model="modelos">
+      <field name="name">Prius</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_924" model="modelos">
+      <field name="name">Avensis Verso</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_925" model="modelos">
+      <field name="name">Corolla Verso</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_926" model="modelos">
+      <field name="name">Corolla Sedan</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_927" model="modelos">
+      <field name="name">Aygo</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_928" model="modelos">
+      <field name="name">Hilux</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_929" model="modelos">
+      <field name="name">Dyna</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_930" model="modelos">
+      <field name="name">Land Cruiser 200</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_931" model="modelos">
+      <field name="name">Verso</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_932" model="modelos">
+      <field name="name">Iq</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_933" model="modelos">
+      <field name="name">Urban Cruiser</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_934" model="modelos">
+      <field name="name">Gt86</field>
+      <field name="marca" ref="74"/>
+</record>
+
+
+
+<record id="modelo_935" model="modelos">
+      <field name="name">100</field>
+      <field name="marca" ref="75"/>
+</record>
+
+
+
+<record id="modelo_936" model="modelos">
+      <field name="name">121</field>
+      <field name="marca" ref="75"/>
+</record>
+
+
+
+<record id="modelo_937" model="modelos">
+      <field name="name">214</field>
+      <field name="marca" ref="76"/>
+</record>
+
+
+
+<record id="modelo_938" model="modelos">
+      <field name="name">110 Stawra</field>
+      <field name="marca" ref="76"/>
+</record>
+
+
+
+<record id="modelo_939" model="modelos">
+      <field name="name">111 Stawra</field>
+      <field name="marca" ref="76"/>
+</record>
+
+
+
+<record id="modelo_940" model="modelos">
+      <field name="name">215</field>
+      <field name="marca" ref="76"/>
+</record>
+
+
+
+<record id="modelo_941" model="modelos">
+      <field name="name">112 Stawra</field>
+      <field name="marca" ref="76"/>
+</record>
+
+
+
+<record id="modelo_942" model="modelos">
+      <field name="name">Passat</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_943" model="modelos">
+      <field name="name">Golf</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_944" model="modelos">
+      <field name="name">Vento</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_945" model="modelos">
+      <field name="name">Polo</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_946" model="modelos">
+      <field name="name">Corrado</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_947" model="modelos">
+      <field name="name">Sharan</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_948" model="modelos">
+      <field name="name">Lupo</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_949" model="modelos">
+      <field name="name">Bora</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_950" model="modelos">
+      <field name="name">Jetta</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_951" model="modelos">
+      <field name="name">New Beetle</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_952" model="modelos">
+      <field name="name">Phaeton</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_953" model="modelos">
+      <field name="name">Touareg</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_954" model="modelos">
+      <field name="name">Touran</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_955" model="modelos">
+      <field name="name">Multivan</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_956" model="modelos">
+      <field name="name">Caddy</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_957" model="modelos">
+      <field name="name">Golf Plus</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_958" model="modelos">
+      <field name="name">Fox</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_959" model="modelos">
+      <field name="name">Eos</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_960" model="modelos">
+      <field name="name">Caravelle</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_961" model="modelos">
+      <field name="name">Tiguan</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_962" model="modelos">
+      <field name="name">Transporter</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_963" model="modelos">
+      <field name="name">Lt</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_964" model="modelos">
+      <field name="name">Taro</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_965" model="modelos">
+      <field name="name">Crafter</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_966" model="modelos">
+      <field name="name">California</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_967" model="modelos">
+      <field name="name">Santana</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_968" model="modelos">
+      <field name="name">Scirocco</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_969" model="modelos">
+      <field name="name">Passat Cc</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_970" model="modelos">
+      <field name="name">Amarok</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_971" model="modelos">
+      <field name="name">Beetle</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_972" model="modelos">
+      <field name="name">Up</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_973" model="modelos">
+      <field name="name">Cc</field>
+      <field name="marca" ref="77"/>
+</record>
+
+
+
+<record id="modelo_974" model="modelos">
+      <field name="name">440</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_975" model="modelos">
+      <field name="name">850</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_976" model="modelos">
+      <field name="name">S70</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_977" model="modelos">
+      <field name="name">V70</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_978" model="modelos">
+      <field name="name">V70 Classic</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_979" model="modelos">
+      <field name="name">940</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_980" model="modelos">
+      <field name="name">480</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_981" model="modelos">
+      <field name="name">460</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_982" model="modelos">
+      <field name="name">960</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_983" model="modelos">
+      <field name="name">S90</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_984" model="modelos">
+      <field name="name">V90</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_985" model="modelos">
+      <field name="name">Classic</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_986" model="modelos">
+      <field name="name">S40</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_987" model="modelos">
+      <field name="name">V40</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_988" model="modelos">
+      <field name="name">V50</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_989" model="modelos">
+      <field name="name">V70 Xc</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_990" model="modelos">
+      <field name="name">Xc70</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_991" model="modelos">
+      <field name="name">C70</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_992" model="modelos">
+      <field name="name">S80</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_993" model="modelos">
+      <field name="name">S60</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_994" model="modelos">
+      <field name="name">Xc90</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_995" model="modelos">
+      <field name="name">C30</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_996" model="modelos">
+      <field name="name">780</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_997" model="modelos">
+      <field name="name">760</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_998" model="modelos">
+      <field name="name">740</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_999" model="modelos">
+      <field name="name">240</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_1000" model="modelos">
+      <field name="name">360</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_1001" model="modelos">
+      <field name="name">340</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_1002" model="modelos">
+      <field name="name">Xc60</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_1003" model="modelos">
+      <field name="name">V60</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_1004" model="modelos">
+      <field name="name">V40 Cross Country</field>
+      <field name="marca" ref="78"/>
+</record>
+
+
+
+<record id="modelo_1005" model="modelos">
+      <field name="name">353</field>
+      <field name="marca" ref="79"/>
+</record>
+
+
+
+<record id="modelo_1006" model="modelos">
+      <field name="name">Mini</field>
+      <field name="marca" ref="53"/>
+</record>
+
+
+
+<record id="modelo_1007" model="modelos">
+      <field name="name">Countryman</field>
+      <field name="marca" ref="53"/>
+</record>
+
+
+
+<record id="modelo_1008" model="modelos">
+      <field name="name">Paceman</field>
+      <field name="marca" ref="53"/>
+</record>
+
+
+
+
+
+
+</data>
+</odoo>

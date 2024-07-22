@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="0">
+
+        <!-- AUTOS -->
+        <record model="marcas" id="1">
+            <field name="name">Abarth</field>
+        </record>
+                <record model="marcas" id="2">
+            <field name="name">Alfa Romeo</field>
+        </record>
+
+        <record model="marcas" id="3">
+            <field name="name">Aro</field>
+        </record>
+
+        <record model="marcas" id="4">
+            <field name="name">Asia</field>
+        </record>
+
+        <record model="marcas" id="5">
+            <field name="name">Asia Motors</field>
+        </record>
+
+        <record model="marcas" id="6">
+            <field name="name">Aston Martin</field>
+        </record>
+
+        <record model="marcas" id="7">
+            <field name="name">Audi</field>
+        </record>
+
+        <record model="marcas" id="8">
+            <field name="name">Austin</field>
+        </record>
+
+        <record model="marcas" id="9">
+            <field name="name">Auverland</field>
+        </record>
+
+        <record model="marcas" id="10">
+            <field name="name">Bentley</field>
+        </record>
+
+        <record model="marcas" id="11">
+            <field name="name">Bertone</field>
+        </record>
+
+        <record model="marcas" id="12">
+            <field name="name">Bmw</field>
+        </record>
+
+        <record model="marcas" id="13">
+            <field name="name">Cadillac</field>
+        </record>
+
+        <record model="marcas" id="14">
+            <field name="name">Chevrolet</field>
+        </record>
+
+        <record model="marcas" id="15">
+            <field name="name">Chrysler</field>
+        </record>
+
+        <record model="marcas" id="16">
+            <field name="name">Citroen</field>
+        </record>
+
+        <record model="marcas" id="17">
+            <field name="name">Corvette</field>
+        </record>
+
+        <record model="marcas" id="18">
+            <field name="name">Dacia</field>
+        </record>
+
+        <record model="marcas" id="19">
+            <field name="name">Daewoo</field>
+        </record>
+
+        <record model="marcas" id="20">
+            <field name="name">Daf</field>
+        </record>
+
+        <record model="marcas" id="21">
+            <field name="name">Daihatsu</field>
+        </record>
+
+        <record model="marcas" id="22">
+            <field name="name">Daimler</field>
+        </record>
+
+        <record model="marcas" id="23">
+            <field name="name">Dodge</field>
+        </record>
+
+        <record model="marcas" id="24">
+            <field name="name">Ferrari</field>
+        </record>
+
+        <record model="marcas" id="25">
+            <field name="name">Fiat</field>
+        </record>
+
+        <record model="marcas" id="26">
+            <field name="name">Ford</field>
+        </record>
+
+        <record model="marcas" id="27">
+            <field name="name">Galloper</field>
+        </record>
+
+        <record model="marcas" id="28">
+            <field name="name">Gmc</field>
+        </record>
+
+        <record model="marcas" id="29">
+            <field name="name">Honda</field>
+        </record>
+
+        <record model="marcas" id="30">
+            <field name="name">Hummer</field>
+        </record>
+
+        <record model="marcas" id="31">
+            <field name="name">Hyundai</field>
+        </record>
+
+        <record model="marcas" id="32">
+            <field name="name">Infiniti</field>
+        </record>
+
+        <record model="marcas" id="33">
+            <field name="name">Innocenti</field>
+        </record>
+
+        <record model="marcas" id="34">
+            <field name="name">Isuzu</field>
+        </record>
+
+        <record model="marcas" id="35">
+            <field name="name">Iveco</field>
+        </record>
+
+        <record model="marcas" id="36">
+            <field name="name">Iveco-pegaso</field>
+        </record>
+
+        <record model="marcas" id="37">
+            <field name="name">Jaguar</field>
+        </record>
+
+        <record model="marcas" id="38">
+            <field name="name">Jeep</field>
+        </record>
+
+        <record model="marcas" id="39">
+            <field name="name">Kia</field>
+        </record>
+
+        <record model="marcas" id="40">
+            <field name="name">Lada</field>
+        </record>
+
+        <record model="marcas" id="41">
+            <field name="name">Lamborghini</field>
+        </record>
+
+        <record model="marcas" id="42">
+            <field name="name">Lancia</field>
+        </record>
+
+        <record model="marcas" id="43">
+            <field name="name">Land-rover</field>
+        </record>
+
+        <record model="marcas" id="44">
+            <field name="name">Ldv</field>
+        </record>
+
+        <record model="marcas" id="45">
+            <field name="name">Lexus</field>
+        </record>
+
+        <record model="marcas" id="46">
+            <field name="name">Lotus</field>
+        </record>
+
+        <record model="marcas" id="47">
+            <field name="name">Mahindra</field>
+        </record>
+
+        <record model="marcas" id="48">
+            <field name="name">Maserati</field>
+        </record>
+
+        <record model="marcas" id="49">
+            <field name="name">Maybach</field>
+        </record>
+
+        <record model="marcas" id="50">
+            <field name="name">Mazda</field>
+        </record>
+
+        <record model="marcas" id="51">
+            <field name="name">Mercedes-benz</field>
+        </record>
+
+        <record model="marcas" id="52">
+            <field name="name">Mg</field>
+        </record>
+
+        <record model="marcas" id="53">
+            <field name="name">Mini</field>
+        </record>
+
+        <record model="marcas" id="54">
+            <field name="name">Mitsubishi</field>
+        </record>
+
+        <record model="marcas" id="55">
+            <field name="name">Morgan</field>
+        </record>
+
+        <record model="marcas" id="56">
+            <field name="name">Nissan</field>
+        </record>
+
+        <record model="marcas" id="57">
+            <field name="name">Opel</field>
+        </record>
+
+        <record model="marcas" id="58">
+            <field name="name">Peugeot</field>
+        </record>
+
+        <record model="marcas" id="59">
+            <field name="name">Pontiac</field>
+        </record>
+
+        <record model="marcas" id="60">
+            <field name="name">Porsche</field>
+        </record>
+
+        <record model="marcas" id="61">
+            <field name="name">Renault</field>
+        </record>
+
+        <record model="marcas" id="62">
+            <field name="name">Rolls-royce</field>
+        </record>
+
+        <record model="marcas" id="63">
+            <field name="name">Rover</field>
+        </record>
+
+        <record model="marcas" id="64">
+            <field name="name">Saab</field>
+        </record>
+
+        <record model="marcas" id="65">
+            <field name="name">Santana</field>
+        </record>
+
+        <record model="marcas" id="66">
+            <field name="name">Seat</field>
+        </record>
+
+        <record model="marcas" id="67">
+            <field name="name">Skoda</field>
+        </record>
+
+        <record model="marcas" id="68">
+            <field name="name">Smart</field>
+        </record>
+
+        <record model="marcas" id="69">
+            <field name="name">Ssangyong</field>
+        </record>
+
+        <record model="marcas" id="70">
+            <field name="name">Subaru</field>
+        </record>
+
+        <record model="marcas" id="71">
+            <field name="name">Suzuki</field>
+        </record>
+
+        <record model="marcas" id="72">
+            <field name="name">Talbot</field>
+        </record>
+
+        <record model="marcas" id="73">
+            <field name="name">Tata</field>
+        </record>
+
+        <record model="marcas" id="74">
+            <field name="name">Toyota</field>
+        </record>
+
+        <record model="marcas" id="75">
+            <field name="name">Umm</field>
+        </record>
+
+        <record model="marcas" id="76">
+            <field name="name">Vaz</field>
+        </record>
+
+        <record model="marcas" id="77">
+            <field name="name">Volkswagen</field>
+        </record>
+
+        <record model="marcas" id="78">
+            <field name="name">Volvo</field>
+        </record>
+
+        <record model="marcas" id="79">
+            <field name="name">Wartburg</field>
+        </record>
+    </data>
+</odoo>
