@@ -10,7 +10,7 @@
     "data": ['vistas/marcas_view.xml',
              'vistas/menu_views.xml',
              'vistas/modelos_view.xml',
-             #'security/ir.model.access.csv',
+             'security/ir.model.access.csv',
              #'security/groups_security.xml',
              'data/marcas.xml',
              'data/modelos.xml',

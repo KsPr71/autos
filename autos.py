@@ -21,4 +21,6 @@ class Clientes (models.Model):
     _description= 'Modelos de autos'
     auto_marca = fields.Many2one('marcas', string='Tipo de auto')
     auto_modelo = fields.Many2one('modelos', string='Modelo de auto')
+    auto_marca_2 = fields.Many2one('marcas', string='Tipo de auto')
+    auto_modelo_2 = fields.Many2one('modelos', string='Modelo de auto')
 
